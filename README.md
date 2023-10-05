@@ -13,7 +13,7 @@ Please make sure to change the default credentials immediately after deployment 
 ## Getting Started  
 To quickly deploy Apache Superset on Railway.app, simply click the "Deploy on Railway" button below:
 
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/c0hqeB?referralCode=AkM2z4)
 This button will initiate the deployment process.  Railway.app will handle the underlying infrastructure and configuration, making it easy for you to get started with Apache Superset.
 
 ## Feedback and Support  
