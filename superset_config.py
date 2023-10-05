@@ -1,7 +1,5 @@
 import logging
 
-from celery.schedules import crontab
-
 logger = logging.getLogger()
 
 PYTHONPATH = $PYTHONPATH
